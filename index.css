@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: Helvetica;
+}
+
+span {
+    color: blue;
+}
+
+.header {
+    background-image: url("project#1\resources\images\pattern.jpeg");
+    position: fixed;
+}
+
+.title{
+    font-size: 100px;
+    font-weight: bold;
+    color: beige;
+    margin: 0 auto;
+}
+
+.principal{
+    display: block;
+}
+
+h1.principal{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes{
+    background-color: green;
+}
+
+.Frames{
+    background-color: lightcoral;
+}
+
+.Paint{
+    background-color: skyblue;
+}
